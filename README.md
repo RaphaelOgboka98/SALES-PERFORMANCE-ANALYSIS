@@ -41,9 +41,9 @@ This project complements my **Excel-based Sales Dashboard** by leveraging Power 
 ---
 
 ## 🖼 Dashboard Preview
-_Add screenshots of your Power BI report here for quick visual reference._
-
----
+![Sales Dashboard 1](screenshot_02.png)
+![Sales Dashboard 2](screenshot_04.png)
+![Sales Dashboard 3](screenshot_05.png)
 
 ## 🚀 Outcome
 The dashboard provides a clear and interactive view of sales performance, allowing business users to quickly identify trends, monitor KPIs, and make informed decisions.
