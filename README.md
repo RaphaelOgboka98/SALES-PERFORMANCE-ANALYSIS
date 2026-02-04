@@ -36,7 +36,7 @@ This project complements my **Excel-based Sales Dashboard** by leveraging Power 
 ## 📂 Project Files
 - `Sales_Report.pbix` – Power BI dashboard file
 - `Sales_Data.xlsx` – Dataset used for analysis
-- `screenshots/` – Dashboard preview images
+
 
 ---
 
