@@ -1,66 +1,46 @@
-Conversation opened. 1 unread message.
+## 📊 Project Overview
+This project focuses on analyzing sales performance using **Power BI** to provide actionable business insights.
+The dashboard helps stakeholders track revenue trends, evaluate product performance, and identify high-performing regions to support data-driven decision-making.
 
-Skip to content
-Using Gmail with screen readers
-1 of 9,843
-(no subject)
-Inbox
-
-Raphael Ogboka <raphaelogboka98@gmail.com>
-1:06 PM (9 hours ago)
-to me
-
-# Sales Performance Analysis (Power BI)
-
-**Quick overview:** Explore interactive dashboards that analyze sales trends, product performance, and regional revenue using Power BI.
-
-## Project Overview
-This project is a **Sales Report Analysis** created using **Power BI**.
-It helps visualize sales performance, identify trends, and provide actionable insights for decision-making.
-
-**Tools Used:**
-- Power BI Desktop
-- Excel (for raw data preparation)
+This project complements my **Excel-based Sales Dashboard** by leveraging Power BI’s advanced data modeling, DAX calculations, and interactive visualizations.
 
 ---
 
-## Dataset
-- `Sales Data.xlsx` – Contains the raw sales data used in this project.
-- `Sales report.pbix` – Power BI file containing all dashboards and measures.
-
-> ⚠️ Note: The dataset has been anonymized/sample data is used for privacy.
-
----
-
-## Dashboard Preview
-
-![Sales Dashboard 1](screenshots/screenshot_02.png)
-![Sales Dashboard 2](screenshots/screenshot_04.png)
-![Sales Dashboard 3](screenshots/screenshot_05.png)
+## 🛠 Tools & Technologies
+- Power BI
+- DAX
+- Power Query
+- Excel (data source)
 
 ---
 
-## Key Features & Insights
-- Interactive visuals for monthly and regional sales performance
-- Total revenue and product-wise breakdowns
-- Trend analysis over time (rolling monthly sales totals)
-- Filters for region, product, and date to explore the data dynamically
+## 📌 Key Business Questions Answered
+- How is total sales revenue trending over time?
+- Which products and categories generate the highest revenue?
+- Which regions and customers contribute most to overall sales?
+- How does current performance compare across different time periods?
 
 ---
 
-## How to Open the Project
-1. Download `Sales report.pbix` from this repository.
-2. Open it using **Power BI Desktop** (free version available from Microsoft).
-3. Use the included Excel file (`Sales Data.xlsx`) as the data source if prompted.
+## 📈 Key Insights
+- Identified top-performing products driving the majority of revenue.
+- Highlighted seasonal trends and peak sales periods.
+- Revealed regional performance differences to support targeted sales strategies.
+- Enabled quick comparison of sales performance using interactive filters and slicers.
 
 ---
 
-## Notes
-- Screenshots above provide a quick preview for recruiters or users who do not have Power BI Desktop installed.
-- The full `.pbix` file is included for technical reviewers who want to explore the dashboard interactively.
+## 📂 Project Files
+- `Sales_Report.pbix` – Power BI dashboard file
+- `Sales_Data.xlsx` – Dataset used for analysis
+-
 
 ---
 
-## Contact
-For questions or feedback, feel free to contact me via LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+## 🖼 Dashboard Preview
+[View Dashboard Screenshot](https://drive.google.com/file/d/1ajzYyNONCbMPn7AezXbJ8ScEVJSwEDfO/view?usp=sharing)
 
+---
+
+## 🚀 Outcome
+The dashboard provides a clear and interactive view of sales performance, allowing business users to quickly identify trends, monitor KPIs, and make informed decisions
