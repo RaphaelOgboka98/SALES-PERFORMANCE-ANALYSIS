@@ -34,9 +34,9 @@ It helps visualize sales performance, identify trends, and provide actionable in
 
 ## Dashboard Preview
 
-![Sales Dashboard 1](screenshots/screenshot_02.png)
-![Sales Dashboard 2](screenshots/screenshot_04.png)
-![Sales Dashboard 3](screenshots/screenshot_05.png)
+![Sales Dashboard 1](./screenshots/screenshot_02.png)
+![Sales Dashboard 2](./screenshots/screenshot_04.png)
+![Sales Dashboard 3](./screenshots/screenshot_05.png)
 
 ---
 
